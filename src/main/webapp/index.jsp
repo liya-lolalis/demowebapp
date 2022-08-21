@@ -10,6 +10,7 @@
       <img src="https://visionled.co/wp-content/uploads/2020/12/DevOps-Lifecycle-colourful.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Welcome to DevOps Academy</h1>
+      <h2 class="text-center">Thank You</h2>
  </div>
 </body>
 </html>
