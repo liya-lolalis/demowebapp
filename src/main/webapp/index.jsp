@@ -7,13 +7,9 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-     <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+      <img src="https://visionled.co/wp-content/uploads/2020/12/DevOps-Lifecycle-colourful.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is done with jenkins</h1>
-      <h2 class="text-center">Welcome to Mani, Kishore and Karthik on behalf of DevOps Academy</h2>
-      
-<center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
- </center> </div>
+      <h1 class="text-center">Welcome to DevOps Academy</h1>
+ </div>
 </body>
 </html>
